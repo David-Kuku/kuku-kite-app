@@ -253,11 +253,3 @@ grey-frontend/                         # Monorepo root
     ├── Dockerfile
     └── Makefile
 ```
-
-## Loom Walkthrough
-
-https://www.loom.com/share/f3e8e2c8e7504d01bcdc9d2963baae21
-
-## Time Spent
-
-15hrs
